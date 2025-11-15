@@ -26,13 +26,13 @@ class TeamMember extends HTMLElement {
     <style>
       :host {
         display: block;
-        max-width: 120px;
+        max-width: 300px;
         text-align: center;
       }
 
       img {
-        width: 100px;
-        height: 100px;
+        width: 300px;
+        height: 200px;
         border-radius: 50%;
         display: block;
         margin: auto;
